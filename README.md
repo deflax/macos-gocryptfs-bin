@@ -1,6 +1,6 @@
 ## Mac OSX arm64 gocryptfs and SiriKali binaries
 
-Tested on MBA M1 2020. I had some issues building gocryptfs using brew so i had to to this manualy, as the gocryptfs brew formula didnt want to detect the installed macFUSE 4.1.2
+Tested on MBA M1 2020. I had some issues building gocryptfs using brew so i had to do this manualy, as the gocryptfs brew formula didnt want to detect the installed macFUSE 4.1.2
 
 ### gocryptfs
 
