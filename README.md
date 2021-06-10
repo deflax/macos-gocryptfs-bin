@@ -1,0 +1,1 @@
+# macos-gocryptfs-bin
